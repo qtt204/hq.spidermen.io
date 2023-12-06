@@ -1,0 +1,55 @@
+body {
+ background-image: url(https://wp-s.ru/wallpapers/13/9/322920873043126/minimalisticheskij-krasnyj-fon-s-chelovekom-paukom.jpg);
+ background-size: cover;
+ background-attachment: fixed;
+}
+
+/* Step 1 */
+p {
+  color: white;
+  font-size: 15px;
+}
+h1{
+  color: white;
+}
+
+/* Step 2*/
+body {
+  background-color: #000000;
+}
+
+/* Step 3 */
+p, h1, h2 {
+ /* margin: 10px 15px 30px 60px */
+  padding: 10px 15px;
+  border: solid
+}
+
+
+ul, li {
+margin: 0;
+padding: 0;
+}
+ul {
+list-style: none;
+width: 100%;
+}
+li {
+float: left;
+width: auto;
+}
+a {
+background: #000000
+  ;
+color: #800000;
+display: block;
+font: bold 13px sans-serif;
+padding: 10px 25px;
+text-align: center;
+text-decoration: none;
+}
+li:hover a {
+background: #000000;
+}
+
+
